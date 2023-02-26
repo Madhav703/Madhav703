@@ -7,9 +7,6 @@
 
 -  How to reach me? Join my [Discord Server](https://discord.gg/2YhzqSwvsc)
 
-<h2>Most Used Languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhav703&show_icons=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=475159" float="right" />
-</span>
 
 
 
