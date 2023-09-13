@@ -19,3 +19,4 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=Madhav703&show_icons=true&locale=en&theme=dark" alt="madhav0703" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav703&theme=dark" alt="madhav0703" /></p>
 
+![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs?username=Madhav703&theme=dark&hide=html&layout=compact)
