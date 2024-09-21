@@ -1,5 +1,5 @@
 # 💫 About Me:
-<b>Hello, I'm Madhav👋 I'm currently a BCA student learning Web Development. I have a strong foundation in programming with skills in C, C++, Java, Python, PHP, and SQL. </b>
+<b>Hello, I'm Madhav👋 <br>- I'm currently a BCA student learning Web Development. <br>- I have a strong foundation in programming with skills in C, C++, Java, Python, PHP, and SQL. </b>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://champ-bot.xyz/support) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhav_0703) 
