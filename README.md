@@ -1,29 +1,26 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=madhav0703&label=Profile%20views&color=0e75b6&style=flat" alt="madhav git profile views" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhav0703" alt="madhav0703" /></a> </p>
-
-
-- I’m currently working on [Champ](https://discord.com/oauth2/authorize?client_id=929742763036123138&permissions=2113268958&redirect_uri=https://discord.gg/p3WJ5gcdBY&response_type=code&scope=bot+applications.commands)
-
--  How to reach me? Join my [Discord Server](https://discord.gg/2YhzqSwvsc)
+# 💫 About Me:
+Hello, I'm Madhav 👋<br>I'm currently learning Web Development.<br>Currently pursuing BCA <br><br>I have good knowledge of C, C++, Python, PHP and SQL.
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://champ-bot.xyz/support) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhav_0703) 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Madhav703&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Madhav703&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav703&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://discord.gg/AZj8K5jA6f" target="blank"><img src="https://discord.c99.nl/widget/theme-1/995000644660383764.png"></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Madhav703&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-##  Contributions Streak
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-  <a href="https://github.com/Madhav703/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav703#version3"/>
-  </a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Madhav703&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Madhav703&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left"><b>Known Languages: </b> </h3>
-<p align="left"> <a href="" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jEgAoo3Lkvap1jOPAS9GqFFP-GsmCxMabw&usqp=CAU" alt="html" width="40" height="40"/> <a href="" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL5PgGAn2Sr2DUXU19h5Jht0fcADr9BN8E1w&usqp=CAU" alt="css" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt='c', width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a> </p>
-
-
-
-![Most Languages Used](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Madhav703&theme=dark)
