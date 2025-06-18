@@ -5,7 +5,10 @@ I'm a Computer Science student with a solid foundation in programming. I have ex
 - HTML, CSS, PHP, SQL
 
 ## 🚀 Currently Working On
-[Genie – A multipurpose Discord bot](https://genie-bot.com/)
+
+I'm actively developing [**Genie**](https://genie-bot.com) – a feature-rich multipurpose Discord bot designed for server management, fun, and automation.
+
+[![Visit Genie Website](https://img.shields.io/badge/🌐%20Genie%20Bot-Click%20Here-blueviolet?style=for-the-badge&logo=discord&logoColor=white)](https://genie-bot.com)
 
 ## 🌐 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://genie-bot.com/support)
