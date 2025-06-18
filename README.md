@@ -1,5 +1,5 @@
 # 💫 About Me:
-<b>Hello, I'm Madhav👋 <br>- I'm currently a Computer Science student pursuing BCA. <br>- I have a strong foundation in programming with skills in Python, C, C++, HTML, CSS, JavaScript, PHP and SQL. </b>
+<b>Hello, I'm Madhav👋 <br>- I'm currently a Computer Science student <br>- I have a strong foundation in programming with skills in Python, C, C++, HTML, CSS, JavaScript, PHP and SQL. </b>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://genie-bot.com/support) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhav_0703) 
