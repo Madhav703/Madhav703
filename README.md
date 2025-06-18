@@ -24,7 +24,7 @@ I'm a Computer Science student with a solid foundation in programming. I have ex
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhav703&theme=dark&hide_border=false)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Madhav703&theme=dark&hide_border=false)
+<!--![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Madhav703&theme=dark&hide_border=false) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav703&theme=dark&hide_border=false&layout=compact)
 
 <!--
@@ -36,5 +36,4 @@ I'm a Computer Science student with a solid foundation in programming. I have ex
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=Madhav703&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--[![Profile Views](https://visitcount.itsvg.in/api?id=Madhav703&icon=0&color=0)](https://visitcount.itsvg.in) -->
