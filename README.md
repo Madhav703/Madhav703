@@ -3,13 +3,13 @@
 I'm a Computer Science student with a solid foundation in programming. I have experience with:
 - Python, C, C++, JavaScript
 - HTML, CSS, PHP, SQL
-
+<!--
 ## 🚀 Currently Working On
 
 I'm actively developing [**Genie**](https://genie-bot.com) – a feature-rich multipurpose Discord bot designed for server management, fun, and automation.
 
 [![Visit Genie Website](https://img.shields.io/badge/🌐%20Genie%20Bot-Click%20Here-blueviolet?style=for-the-badge&logo=discord&logoColor=white)](https://genie-bot.com)
-
+-->
 ## 🌐 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://genie-bot.com/support)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhav_0703)
