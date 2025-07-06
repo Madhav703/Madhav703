@@ -26,7 +26,9 @@ I'm actively developing [**Genie**](https://genie-bot.com) – a feature-rich mu
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhav703&theme=dark&hide_border=false)
+-->
 <!--![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Madhav703&theme=dark&hide_border=false) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav703&theme=dark&hide_border=false&layout=compact)
 
