@@ -3,6 +3,7 @@
 I'm a Computer Science student with a solid foundation in programming. I have experience with:
 - Python, C, C++, JavaScript
 - HTML, CSS, PHP, SQL
+
 <!--
 ## 🚀 Currently Working On
 
@@ -13,6 +14,8 @@ I'm actively developing [**Genie**](https://genie-bot.com) – a feature-rich mu
 ## 🌐 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xqXTVAJS2c)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhav_0703)
+
+[![madhav_1111's Discord status](https://dsc-readme.tsuni.dev/api/user/995000644660383764?theme=nitroDark&primaryColor=000000&accentColor=FF0000&width=512)](https://discord.com/users/995000644660383764)
 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
