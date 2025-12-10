@@ -4,9 +4,10 @@ I'm a Computer Science student with a solid foundation in programming. I have ex
 - Python, C, C++, JavaScript, React, Nodejs
 - HTML, CSS, PHP, SQL, Postgresql 
 
-## 🚀 Currently Working On
+## 🚀 Current Projects
 
-I'm currently working on [**Lyrical Hub**](https://lyricalhub.xyz) – A professional, responsive lyrics search application.
+I'm currently working on [**Lyrical Hub**](https://lyricalhub.xyz) 
+A professional, responsive lyrics search website.
 
 
 ## 🌐 Connect with Me
