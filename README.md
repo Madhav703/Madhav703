@@ -1,16 +1,15 @@
 # 💫 About Me
 **Hi, I'm Madhav 👋**  
 I'm a Computer Science student with a solid foundation in programming. I have experience with:
-- Python, C, C++, JavaScript
-- HTML, CSS, PHP, SQL
+- Python, C, C++, JavaScript, React, Nodejs
+- HTML, CSS, PHP, SQL, Postgresql 
 
 <!--
 ## 🚀 Currently Working On
 
-I'm actively developing [**Genie**](https://genie-bot.com) – a feature-rich multipurpose Discord bot designed for server management, fun, and automation.
-
-[![Visit Genie Website](https://img.shields.io/badge/🌐%20Genie%20Bot-Click%20Here-blueviolet?style=for-the-badge&logo=discord&logoColor=white)](https://genie-bot.com)
+I'm currently working on [**Lyrical Hub**](https://lyricalhub.xyz) – A professional, responsive lyrics search application.
 -->
+
 ## 🌐 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xqXTVAJS2c)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhav_0703)
@@ -27,13 +26,6 @@ I'm actively developing [**Genie**](https://genie-bot.com) – a feature-rich mu
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234ea94b.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## 📊 GitHub Stats
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhav703&theme=dark&hide_border=false)
--->
-<!--![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Madhav703&theme=dark&hide_border=false) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav703&theme=dark&hide_border=false&layout=compact)
 
 <!--
 ## 🏆 GitHub Trophies
