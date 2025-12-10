@@ -7,7 +7,7 @@ I'm a Computer Science student with a solid foundation in programming. I have ex
 ## 🚀 Current Projects
 
 I'm currently working on [**Lyrical Hub**](https://lyricalhub.xyz) 
-A professional, responsive lyrics search website.
+<br>A professional, responsive lyrics search website.
 
 
 ## 🌐 Connect with Me
