@@ -11,7 +11,7 @@ I'm currently working on [**Lyrical Hub**](https://lyricalhub.xyz)
 
 
 ## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xqXTVAJS2c)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/1-1-1-1-961899976248672276)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhav_0703)
 
 [![madhav_1111's Discord status](https://dsc-readme.tsuni.dev/api/user/995000644660383764?theme=nitroDark&primaryColor=000000&accentColor=FF0000&width=512)](https://discord.com/users/995000644660383764)
