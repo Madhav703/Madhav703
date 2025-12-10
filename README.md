@@ -4,11 +4,10 @@ I'm a Computer Science student with a solid foundation in programming. I have ex
 - Python, C, C++, JavaScript, React, Nodejs
 - HTML, CSS, PHP, SQL, Postgresql 
 
-<!--
 ## 🚀 Currently Working On
 
 I'm currently working on [**Lyrical Hub**](https://lyricalhub.xyz) – A professional, responsive lyrics search application.
--->
+
 
 ## 🌐 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xqXTVAJS2c)
