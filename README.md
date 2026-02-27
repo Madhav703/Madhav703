@@ -7,14 +7,12 @@ I'm a Computer Science student with a solid foundation in programming. I have ex
 ## 🚀 Current Projects
 
 I'm currently working on [**Lyrical Hub**](https://lyricalhub.xyz) 
-<br>A professional, responsive lyrics search website.
+<br>A professional, responsive lyrics search website made using React, Next.js and Tailwind CSS.
 
 
 ## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/1-1-1-1-961899976248672276)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhav_0703)
 
-[![madhav_1111's Discord status](https://dsc-readme.tsuni.dev/api/user/995000644660383764?theme=dark&width=512)](https://discord.com/users/995000644660383764)
 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
