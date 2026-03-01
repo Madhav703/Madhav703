@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Lyrical Hub<br>A professional, responsive lyrics search website made using React, Next.js and Tailwind CSS.
+I'm currently working on [Lyrical Hub](https://lyricalhub.xyz)<br>A professional, responsive lyrics search website made using React, Next.js and Tailwind CSS.
 
 
 ## 🌐 Socials:
