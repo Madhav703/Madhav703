@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on [Lyrical Hub](https://lyricalhub.xyz)<br>A professional, responsive lyrics search website made using React, Next.js and Tailwind CSS.
+I'm currently working on [Melora](https://melora-web.pages.dev), a high-quality discord music bot designed to deliver smooth, seamless streaming and an enjoyable listening experience.
 
 
 ## 🌐 Socials:
